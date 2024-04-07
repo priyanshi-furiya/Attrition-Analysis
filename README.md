@@ -8,7 +8,7 @@ The dataset used in this analysis is the HR Employee Attrition dataset, which in
 
 ## Contents
 
-- **attrition_analysis.ipynb**: Jupyter Notebook containing Python code for data exploration, preprocessing, hypothesis testing, and predictive modeling.
+- **employee_attrition_rate.ipynb**: Jupyter Notebook containing Python code for data exploration, preprocessing, hypothesis testing, and predictive modeling.
   
 - **README.md**: Comprehensive documentation providing an overview of the project, instructions, and explanations of the code and analysis.
 
@@ -33,6 +33,6 @@ The Tableau dashboard provides a user-friendly interface for exploring the emplo
 - Interactive filters and drill-down options to analyze specific subsets of the data.
 
 ## How to Use
-1. **Explore the Notebook**: Open and run the `attrition_analysis.ipynb` notebook in Jupyter or any compatible environment to execute the analysis.
+1. **Explore the Notebook**: Open and run the `employee_attrition_rate.ipynb` notebook in Jupyter or any compatible environment to execute the analysis.
 
 2. **Access the Tableau Dashboard**: Open the Tableau dashboard file (`attrition_dashboard.twbx`) using Tableau Desktop or Tableau Public to interactively explore the visualizations.
